@@ -1,0 +1,1336 @@
+fileFormatVersion: 2
+guid: b81d0129b42b8dd47a64829f23339ad3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8292564030709989960
+    second: ST-Bath-I01_0
+  - first:
+      213: -2942479824736025009
+    second: ST-Bath-I01_1
+  - first:
+      213: -9197196022604077726
+    second: ST-Bath-I01_2
+  - first:
+      213: 1202566029314967398
+    second: ST-Bath-I01_3
+  - first:
+      213: 6535537965478951700
+    second: ST-Bath-I01_4
+  - first:
+      213: -206647980594197392
+    second: ST-Bath-I01_5
+  - first:
+      213: -878456230340112725
+    second: ST-Bath-I01_6
+  - first:
+      213: 4844376172309980491
+    second: ST-Bath-I01_7
+  - first:
+      213: 3206892808682126084
+    second: ST-Bath-I01_8
+  - first:
+      213: 4628807533837291461
+    second: ST-Bath-I01_9
+  - first:
+      213: 4682309798378649066
+    second: ST-Bath-I01_10
+  - first:
+      213: -5079145141393563611
+    second: ST-Bath-I01_11
+  - first:
+      213: -8417144633654514497
+    second: ST-Bath-I01_12
+  - first:
+      213: 5891678259580031186
+    second: ST-Bath-I01_13
+  - first:
+      213: 1320532439948553418
+    second: ST-Bath-I01_14
+  - first:
+      213: -8185906765811269599
+    second: ST-Bath-I01_15
+  - first:
+      213: 6186505409314778889
+    second: ST-Bath-I01_16
+  - first:
+      213: 6310409715913169719
+    second: ST-Bath-I01_17
+  - first:
+      213: -3754523754473048589
+    second: ST-Bath-I01_18
+  - first:
+      213: 1868531820453070845
+    second: ST-Bath-I01_19
+  - first:
+      213: -931351230244954742
+    second: ST-Bath-I01_20
+  - first:
+      213: -1996965670772913516
+    second: ST-Bath-I01_21
+  - first:
+      213: -6688173054003822123
+    second: ST-Bath-I01_22
+  - first:
+      213: -4786483333946023428
+    second: ST-Bath-I01_23
+  - first:
+      213: -4526470564308234929
+    second: ST-Bath-I01_24
+  - first:
+      213: 4188900998140769197
+    second: ST-Bath-I01_25
+  - first:
+      213: -4725306380879407870
+    second: ST-Bath-I01_26
+  - first:
+      213: -7740073128402641245
+    second: ST-Bath-I01_27
+  - first:
+      213: -7372643339874078170
+    second: ST-Bath-I01_28
+  - first:
+      213: -3902088537380860384
+    second: ST-Bath-I01_29
+  - first:
+      213: 1390074361897144383
+    second: ST-Bath-I01_30
+  - first:
+      213: -2642838933439223030
+    second: ST-Bath-I01_31
+  - first:
+      213: 2637606802624940616
+    second: ST-Bath-I01_32
+  - first:
+      213: -7761395567057994508
+    second: ST-Bath-I01_33
+  - first:
+      213: -4799413299508256382
+    second: ST-Bath-I01_34
+  - first:
+      213: 186746234634866587
+    second: ST-Bath-I01_35
+  - first:
+      213: -5979483840253848577
+    second: ST-Bath-I01_36
+  - first:
+      213: 4666239818296765274
+    second: ST-Bath-I01_37
+  - first:
+      213: -6888498991158754172
+    second: ST-Bath-I01_38
+  - first:
+      213: 3749012231038363491
+    second: ST-Bath-I01_39
+  - first:
+      213: -2786201006134322099
+    second: ST-Bath-I01_40
+  - first:
+      213: 1524167411061287948
+    second: ST-Bath-I01_41
+  - first:
+      213: -3769090606914267809
+    second: ST-Bath-I01_42
+  - first:
+      213: -4558299871591872180
+    second: ST-Bath-I01_43
+  - first:
+      213: -3066178994445399753
+    second: ST-Bath-I01_44
+  - first:
+      213: -8863185444569317191
+    second: ST-Bath-I01_45
+  - first:
+      213: 2552224515174621413
+    second: ST-Bath-I01_46
+  - first:
+      213: 3640759783838650225
+    second: ST-Bath-I01_47
+  - first:
+      213: -7964012895277441951
+    second: ST-Bath-I01_48
+  - first:
+      213: -4106755668375323493
+    second: ST-Bath-I01_49
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ST-Bath-I01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 256
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84286afcc0b151370800000000000000
+      internalID: 8292564030709989960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 533
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f460bd770363a27d0800000000000000
+      internalID: -2942479824736025009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 533
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2656c0f32fefc5080800000000000000
+      internalID: -9197196022604077726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 536
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6674544ae6f50b010800000000000000
+      internalID: 1202566029314967398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 525
+        width: 97
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bb3702725e2ba50800000000000000
+      internalID: 6535537965478951700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 485
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c812ba1c6d12df0800000000000000
+      internalID: -206647980594197392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 486
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae49d776b81fc3f0800000000000000
+      internalID: -878456230340112725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 491
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4527ec467eaa3340800000000000000
+      internalID: 4844376172309980491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 486
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bb046c40c218c20800000000000000
+      internalID: 3206892808682126084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 482
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf06047de3dc3040800000000000000
+      internalID: 4628807533837291461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 482
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5b0b424f7eaf040800000000000000
+      internalID: 4682309798378649066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 494
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520e59487604389b0800000000000000
+      internalID: -5079145141393563611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcefe73d8b403b80800000000000000
+      internalID: -8417144633654514497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 420
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0d821692273c150800000000000000
+      internalID: 5891678259580031186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_14
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 479
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc6385f149735210800000000000000
+      internalID: 1320532439948553418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 419
+        width: 76
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1204a53da21d56e80800000000000000
+      internalID: -8185906765811269599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 430
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f6d3b64e1ead550800000000000000
+      internalID: 6186505409314778889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 435
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b9d20e334139750800000000000000
+      internalID: 6310409715913169719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 435
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f53ed1a98045ebc0800000000000000
+      internalID: -3754523754473048589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 353
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df78e917acb5ee910800000000000000
+      internalID: 1868531820453070845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 409
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d50289dfc2313f0800000000000000
+      internalID: -931351230244954742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 389
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a4ee48d4a5944e0800000000000000
+      internalID: -1996965670772913516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 334
+        width: 129
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d143c7fa06de23a0800000000000000
+      internalID: -6688173054003822123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 357
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1e1d484cef29db0800000000000000
+      internalID: -4786483333946023428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 357
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d4528010fbe21c0800000000000000
+      internalID: -4526470564308234929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 336
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3b5799347f12a30800000000000000
+      internalID: 4188900998140769197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205dbc0e1e65c6eb0800000000000000
+      internalID: -4725306380879407870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 321
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae93069f7cb59490800000000000000
+      internalID: -7740073128402641245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_28
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 231
+        width: 189
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622f72fb1fb1fa990800000000000000
+      internalID: -7372643339874078170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 320
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e4a4f362ff8d9c0800000000000000
+      internalID: -3902088537380860384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 191
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30d14864498a4310800000000000000
+      internalID: 1390074361897144383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 196
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b68cd0effb25bd0800000000000000
+      internalID: -2642838933439223030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 198
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a0d9f8969aa9420800000000000000
+      internalID: 2637606802624940616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 201
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc77387adbf94490800000000000000
+      internalID: -7761395567057994508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 197
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2816680580f056db0800000000000000
+      internalID: -4799413299508256382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_35
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 161
+        width: 97
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f8d8206b4779200800000000000000
+      internalID: 186746234634866587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 164
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff31b71c02b940da0800000000000000
+      internalID: -5979483840253848577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 164
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bac565460d1c040800000000000000
+      internalID: 4666239818296765274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 168
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48488541aa22760a0800000000000000
+      internalID: -6888498991158754172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_39
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 167
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367e2a1d2ca270430800000000000000
+      internalID: 3749012231038363491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_40
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 167
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c178462fc6559d0800000000000000
+      internalID: -2786201006134322099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 168
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ce88a5f2ee62510800000000000000
+      internalID: 1524167411061287948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_42
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 80
+        width: 93
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f551d90001081bbc0800000000000000
+      internalID: -3769090606914267809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_43
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 95
+        width: 129
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49ce0eea6aadb0c0800000000000000
+      internalID: -4558299871591872180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_44
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 82
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739415a237eb275d0800000000000000
+      internalID: -3066178994445399753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_45
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 63
+        width: 66
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0880e1cc3aff480800000000000000
+      internalID: -8863185444569317191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_46
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0e60e9ca25b6320800000000000000
+      internalID: 2552224515174621413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f0b3cdbb3968230800000000000000
+      internalID: 3640759783838650225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_48
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 12
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c9b5687742a7190800000000000000
+      internalID: -7964012895277441951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Bath-I01_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cba276a7fd107c0800000000000000
+      internalID: -4106755668375323493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
